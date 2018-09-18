@@ -1,4 +1,4 @@
-# Basic App: The Tip calculator.
+# Basic App: The Tip calculator
 
 I expanded on another simple app that just added two values from text boxes. 
 I used this app to practice formating doubles to the standard 2 decimal places.
