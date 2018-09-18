@@ -10,7 +10,7 @@ To do this in swift, do the following:
 
 Example:
 
-(round(12.12432 * 100) / 100)
+`(round(12.12432 * 100) / 100)`
 
 The app returns the individual fields for sales tax, tip and total meal cost as individual labels. This was a nicer
 improvement than my one label for everything.
